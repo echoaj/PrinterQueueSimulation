@@ -1,2 +1,2 @@
 # PrinterQueueSimulation
-A program simulates a printing queue using threads
+A program that simulates a printing queue using threads
