@@ -1,8 +1,8 @@
 
 #ifndef QUEUE_H_
 #define QUEUE_H_
-#import "Person.h"
-#import "LinkedList.h"
+#include "Person.h"
+#include "LinkedList.h"
 
 class Queue {
 private:
