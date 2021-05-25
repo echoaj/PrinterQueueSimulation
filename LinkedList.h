@@ -8,7 +8,7 @@
 #ifndef LINKEDLIST_H_
 #define LINKEDLIST_H_
 
-#import "Person.h"
+#include "Person.h"
 
 class Node{
 public:
